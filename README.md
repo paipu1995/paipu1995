@@ -1,10 +1,10 @@
 
 
-<p align="center">
-  <img src="./ruridragon-ruri-dragon (2).gif" alt="Demo Animation" />
-   <img src="./ruridragon-ruri-dragon.gif" alt="Demo Animation" />
-  <img src="./ruri-dragon.gif" alt="Demo Animation" />
-   <img src="./ruridragon-ruri-dragon (1).gif" alt="Demo Animation" />
+<p align="center" >
+  <img src="./ruridragon-ruri-dragon (2).gif" alt="Demo Animation" height="400" width="400" />
+   <img src="./ruridragon-ruri-dragon.gif" alt="Demo Animation" height="400" width="400"/>
+  <img src="./ruri-dragon.gif" alt="Demo Animation"height="400" width="400" />
+   <img src="./ruridragon-ruri-dragon (1).gif" alt="Demo Animation"height="400" width="400" />
 </p>
 
 
