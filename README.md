@@ -11,12 +11,10 @@
         <img src="./ruridragon-ruri-dragon (2).gif" width="90%" style="border-radius: 15px; border: 2px solid #33d17a;">
         <img src="./ruridragon-pv.gif" width="90%" style="border-radius: 15px; border: 2px solid #33d17a;">
          <img src="./ruridragon-ruri-dragon.gif" width="90%" style="border-radius: 15px; border: 2px solid #33d17a;">
-        <a href="https://github.com/paipu1995/paipu1995/blob/main/mp3-1.mp3?raw=true" target="_blank">
+        <a href="https://youtu.be/80islLpIrLs" target="_blank">
            <img src="https://img.shields.io/badge/Soundtrack-Play_Music_Now-2ea44f?style=for-the-badge&logo=spotify&logoColor=white">
         </a>
         <p style="font-size: 12px; color: gray;">(Click badge to play 🎵)</p>
-        <a href="https://youtu.be/80islLpIrLs" target="_blank">
-        </a>
       </td>
       <td width="55%" align="center" valign="top">
         <h3 align="center">💻 Tech Stats</h3>
