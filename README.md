@@ -15,7 +15,7 @@
            <img src="https://img.shields.io/badge/Soundtrack-Play_Music_Now-2ea44f?style=for-the-badge&logo=spotify&logoColor=white">
         </a>
         <p style="font-size: 12px; color: gray;">(Click badge to play 🎵)</p>
-        <a href="https://www.youtube.com/watch?v=s_0XzhP-g6I" target="_blank">
+        <a href="https://youtu.be/80islLpIrLs" target="_blank">
         </a>
       </td>
       <td width="55%" align="center" valign="top">
