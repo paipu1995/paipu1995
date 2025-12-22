@@ -5,6 +5,9 @@
    <img src="./ruridragon-ruri-dragon.gif" alt="Demo Animation" height="400" width="400"/>
   <img src="./ruridragon-pv.gif" alt="Demo Animation"height="400" width="400" />
    <img src="./ruridragon-ruri-dragon (1).gif" alt="Demo Animation"height="400" width="400" />
+  <a href="https://www.youtube.com/watch?v=80islLpIrLs&list=RD80islLpIrLs&start_radio=1&pp=ygUNenV0b21heW8gcnVyaaAHAQ%3D%3D?raw=true" target="_blank">
+  <img src="https://img.shields.io/badge/Play_Music-Click_Here-blue?style=for-the-badge&logo=applemusic" alt="Play Music">
+</a>
 </p>
 
 
