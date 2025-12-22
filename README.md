@@ -1,31 +1,61 @@
+<div align="center">
+
+  <img src="./ruri-head1.png" width="100%" style="border-radius: 20px; box-shadow: 0px 0px 20px rgba(46, 164, 79, 0.5);">
 
 
-<p align="center" >
-  <img src="./ruridragon-ruri-dragon (2).gif" alt="Demo Animation" height="400" width="400" />
-   <img src="./ruridragon-ruri-dragon.gif" alt="Demo Animation" height="400" width="400"/>
-  <img src="./ruridragon-pv.gif" alt="Demo Animation"height="400" width="400" />
-   <img src="./ruridragon-ruri-dragon (1).gif" alt="Demo Animation"height="400" width="400" />
-  <a href="https://www.youtube.com/watch?v=80islLpIrLs&list=RD80islLpIrLs&start_radio=1&pp=ygUNenV0b21heW8gcnVyaaAHAQ%3D%3D?raw=true" target="_blank">
-  <img src="https://img.shields.io/badge/Play_Music-Click_Here-blue?style=for-the-badge&logo=applemusic" alt="Play Music">
-</a>
-</p>
+  <br><br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33D17A&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);I'm+Atiwat+Bowornkit;CS+Student+@+University+of+Phayao;Ruri+Dragon+Lover+🐉⚡" alt="Typing SVG" />
+  </a>
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is ATIWAT
-===============================================================================================================================
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [67026179@up.ac.th](mailto:67026179@up.ac.th)
-* 🧠  I'm currently learning Python , HTML , CSS , SQL , JavaScript
+  <table width="100%" style="border: none;">
+    <tr>
+      <td width="45%" align="center" valign="top">
+        <h3 align="center">⚡ Ruri Station</h3>
+        <br>
+        <img src="./ruridragon-pv.gif" width="90%" style="border-radius: 15px; border: 2px solid #33d17a;">
+        <br>
+<br>
+        <a href="https://github.com/paipu1995/paipu1995/blob/main/mp3-1.mp3?raw=true" target="_blank">
+           <img src="https://img.shields.io/badge/Soundtrack-Play_Music_Now-2ea44f?style=for-the-badge&logo=spotify&logoColor=white">
+        </a>
+        <br>
+        <p style="font-size: 12px; color: gray;">(Click badge to play 🎵)</p>
+<br>
+        <a href="https://www.youtube.com/watch?v=s_0XzhP-g6I" target="_blank">
+        </a>
+      </td>
+<br>
+      <td width="55%" align="center" valign="top">
+        <h3 align="center">💻 Tech Stats</h3>
+<br>
+        <img src="https://skillicons.dev/icons?i=py,html,css,mysql,vscode" />
+    <br>    
+        <br><br>
+<br>
+        <img src="https://github-readme-stats.vercel.app/api?username=paipu1995&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=33d17a&title_color=33d17a" width="100%" />
+   <br>     
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paipu1995&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=33d17a" width="100%" />
+      </td>
+    </tr>
+  </table>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-</p>
+  <br>
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paipu1995&theme=radical&hide_border=true&background=0d1117&ring=33d17a&fire=33d17a&currStreakLabel=33d17a" width="80%" alt="GitHub Streak" />
+  
+  <br><br>
 
-<p align="left"> <a href="https://www.github.com/https://github.com/paipu1995" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/https://x.com/paipu26467771" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://discord.com/users/@paipu1995" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com/https://www.facebook.com/S8S8S8S8S8S8S8S8S8S/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-<a href="https://www.github.com/https://github.com/paipu1995" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/https://github.com/paipu1995?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a><a href="https://www.x.com/https://x.com/paipu26467771" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/https://x.com/paipu26467771?logo=twitter&style=for-the-badge&color=ffffff&labelColor=1c1917"
-/></a>
+  <p>
+    <b>Contact Me:</b> <br>
+    <a href="mailto:67026179@up.ac.th">
+      <img src="https://img.shields.io/badge/Email-67026179@up.ac.th-33d17a?style=flat-square&logo=gmail&logoColor=black">
+    </a>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=paipu1995&color=2ea44f&style=flat-square&label=PROFILE+VIEWS" alt="visitor count" />
 
+</div>
