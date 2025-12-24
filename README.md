@@ -17,19 +17,22 @@
         <p style="font-size: 12px; color: gray;">(Click badge to play 🎵)</p>
       </td>
       <td width="55%" align="center" valign="top">
-        <h3 align="center">💻 Tech Stats</h3>
-        <img src="https://skillicons.dev/icons?i=py,html,css,mysql,vscode" />  
-        <img src="https://github-readme-stats.vercel.app/api?username=paipu1995&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=33d17a&title_color=33d17a" width="100%" />     
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paipu1995&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=33d17a" width="100%" />
+        <br></br>
+        <img src="https://skillicons.dev/icons?i=py,html,css,mysql,vscode"/>  
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paipu1995&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=33d17a" width="100%" />  
+        <div align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=paipu1995&bg_color=0d1117&color=33d17a&line=33d17a&point=ffffff&hide_border=true" width="100%" />
+        </div>
+        <div align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paipu1995&theme=radical" />
+        </div>
+        <br>
       </td>
     </tr>
   </table>
 
-  <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paipu1995&theme=radical&hide_border=true&background=0d1117&ring=33d17a&fire=33d17a&currStreakLabel=33d17a" width="80%" alt="GitHub Streak" />
-  
-  <br><br>
+
 
   <p>
     <b>Contact Me:</b> <br>
