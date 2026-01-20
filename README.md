@@ -10,7 +10,7 @@
       <td width="45%" align="center" valign="top">
         <img src="./ruridragon-ruri-dragon (2).gif" width="90%" style="border-radius: 15px; border: 2px solid #33d17a;">
         <img src="./ruridragon-pv.gif" width="90%" style="border-radius: 15px; border: 2px solid #33d17a;">
-         <img src="./ruridragon-ruri-dragon.gif" width="90%" style="border-radius: 15px; border: 2px solid #33d17a;">
+         <img src="./ruridragon-ruri-dragon (1).gif" width="90%" style="border-radius: 15px; border: 2px solid #33d17a;">
         <img src="./ruridragon-ruri-dragon.gif" width="90%" style="border-radius: 15px; border: 2px solid #33d17a;">
         <a href="https://youtu.be/80islLpIrLs" target="_blank">
            <img src="https://img.shields.io/badge/Soundtrack-Play_Music_Now-2ea44f?style=for-the-badge&logo=spotify&logoColor=white">
