@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./ruridragon1.gif" width="90%" style="border-radius: 15px; border: 2px solid #33d17a;">
+  <img src="./ruridragon1.gif" width="10%" style="border-radius: 15px; border: 2px solid #33d17a;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33D17A&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);I'm+Atiwat+Bowornkit;CS+Student+@+University+of+Phayao;" alt="Typing SVG" />
   </a>
@@ -27,7 +27,6 @@
         </div>
         <div align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paipu1995&theme=radical" />
-        <img src="./ruri-ruri-dragon.gif" width="90%" style="border-radius: 15px; border: 2px solid #33d17a;">
         </div>
         <br>
       </td>
